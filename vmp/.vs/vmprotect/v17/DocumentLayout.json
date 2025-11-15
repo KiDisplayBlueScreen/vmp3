@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\runtime\\loader.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|solutionrelative:runtime\\loader.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\runtime\\hook_manager.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BC8F17F-EE5C-439C-92D4-87BDA183150A}|vcproj\\win_runtime.vcxproj|solutionrelative:runtime\\hook_manager.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F704A-25EC-4A48-907D-DF78EA2CFC47}|vcproj\\core.vcxproj|F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\core\\il.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C3F704A-25EC-4A48-907D-DF78EA2CFC47}|vcproj\\core.vcxproj|solutionrelative:core\\il.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\ExDisp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExDisp.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\ExDisp.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\ExDisp.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-15T12:38:21.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "il.cc",
+              "DocumentMoniker": "F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\core\\il.cc",
+              "RelativeDocumentMoniker": "core\\il.cc",
+              "ToolTip": "F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\core\\il.cc",
+              "RelativeToolTip": "core\\il.cc",
+              "ViewState": "AgIAAMIcAAAAAAAAAAAuwP8cAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T14:14:16.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hook_manager.cc",
+              "DocumentMoniker": "F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\runtime\\hook_manager.cc",
+              "RelativeDocumentMoniker": "runtime\\hook_manager.cc",
+              "ToolTip": "F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\runtime\\hook_manager.cc",
+              "RelativeToolTip": "runtime\\hook_manager.cc",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwDgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:52:34.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loader.cc",
+              "DocumentMoniker": "F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\runtime\\loader.cc",
+              "RelativeDocumentMoniker": "runtime\\loader.cc",
+              "ToolTip": "F:\\\u6570\u636E\u8FC1\u79FB\\vmp_\u6539-\u5E26\u7F16\u8BD1\u597D\u7A0B\u5E8F\\vmp\\runtime\\loader.cc",
+              "RelativeToolTip": "runtime\\loader.cc",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T14:31:33.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
